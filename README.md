@@ -1,6 +1,5 @@
  # 💫 About Me:
-<br>👋 Hi, I'm Devraj  — a passionate **Data Scientist** with a strong foundation in statistics, programming, and machine learning. I enjoy uncovering insights from data and building intelligent solutions that make an impact. When I’m not crunching numbers or training models, I love exploring nature or diving into strategy games.<br><br>
-🔍 Let's uncover insights, make data-driven decisions, and innovate with AI!
+<br>👋 Hi, I'm Devraj  — a passionate **Data Scientist** with a strong foundation in statistics, programming, and machine learning. I enjoy uncovering insights from data and building intelligent solutions that make an impact. When I’m not crunching numbers or training models, I love exploring nature or diving into strategy games.<br><br> 
 
 ---
 
