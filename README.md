@@ -39,9 +39,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devraj8068)
 
 ---
- 
- ## 🐍 Python Usage
+ # 📊 GitHub Stats  
 
- ![Python](https://img.shields.io/badge/Python-100%25-blue?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devraj8068&repo=python-only&layout=compact&theme=radical" alt="Python Only Repo Stats" />
+</p>
+
 
 
