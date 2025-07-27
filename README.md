@@ -43,7 +43,6 @@
  
  ## 🐍 Python Usage
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushrut001&layout=compact&langs_count=1&theme=radical&hide_progress=true" alt="Python usage only"/>
-</p>
+ ![Python](https://img.shields.io/badge/Python-100%25-blue?style=for-the-badge&logo=python&logoColor=white)
+
 
