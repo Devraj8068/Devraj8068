@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Devraj+Gaikwad;Data+Scientist+%7C+AI+Builder;I+Turn+Data+Into+Intelligence;Welcome+to+My+World+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Devraj+Gaikwad;AI Engineer | Data Scientist | LLM & Agentic AI Developer+%7C+AI+Builder;I+Turn+Data+Into+Intelligence;Welcome+to+My+World+🚀" />
 </h1>
 
 ---
