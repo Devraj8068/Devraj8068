@@ -193,9 +193,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devraj8068&layout=compact&theme=radical&hide_border=true&v=1" height="250"/>
-</p>
+#<p align="center">
+  #<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devraj8068&layout=compact&theme=radical&hide_border=true&v=1" height="250"/>
+#</p>
 
 ---
 
