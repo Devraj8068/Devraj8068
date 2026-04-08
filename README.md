@@ -96,13 +96,43 @@
 
 ---
 
-# 🤖 AI & LLM Tools  
+# 🧠 Advanced AI & LLM Systems  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-111?style=for-the-badge&logo=openai">
-  <img src="https://img.shields.io/badge/LLMs-00f7ff?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Prompt Engineering-ff9a00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Agentic AI-00f7ff?style=for-the-badge">
+  <img src="https://img.shields.io/badge/RAG Systems-ff6ec7?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LangChain-00ff88?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LangGraph-ff9a00?style=for-the-badge">
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vector Databases-00c3ff?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Semantic Search-8a2be2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Embeddings-ff4d4d?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Prompt Engineering-111?style=for-the-badge">
+</p>
+
+---
+
+## 🚀 What I Build  
+
+✨ **Agentic AI Systems**  
+- Autonomous AI agents that plan, reason, and take actions  
+- Multi-step workflows using tools + memory  
+
+✨ **RAG Pipelines (Retrieval-Augmented Generation)**  
+- Hybrid Search (BM25 + Vector)  
+- Query Expansion + Re-ranking  
+- Context-aware response generation  
+
+✨ **LLM Orchestration**  
+- LangChain pipelines for structured workflows  
+- LangGraph for stateful multi-agent systems  
+
+✨ **Production AI Systems**  
+- FastAPI-based AI backends  
+- Dockerized deployments  
+- Scalable pipelines on AWS  
 
 ---
 
