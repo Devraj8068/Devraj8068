@@ -58,6 +58,54 @@
 
 ---
 
+# ⚙️ Backend & API Development  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="70"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-00ffcc?style=for-the-badge&logo=fastapi&logoColor=black">
+  <img src="https://img.shields.io/badge/REST APIs-00c3ff?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Flask-ff9a00?style=for-the-badge&logo=flask&logoColor=black">
+</p>
+
+---
+
+# ☁️ DevOps & Cloud  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws&theme=dark" height="70"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-00c3ff?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/CI/CD-ff6ec7?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AWS EC2-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS ECR-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+</p>
+
+---
+
+# 🔗 Automation & Workflows  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-ff3c00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Workflow Automation-00ff88?style=for-the-badge">
+</p>
+
+---
+
+# 🤖 AI & LLM Tools  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-111?style=for-the-badge&logo=openai">
+  <img src="https://img.shields.io/badge/LLMs-00f7ff?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Prompt Engineering-ff9a00?style=for-the-badge">
+</p>
+
+---
+
 # 🌐 Connect With Me  
 
 <p align="center">
