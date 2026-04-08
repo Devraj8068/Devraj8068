@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Pandas-ff6ec7?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-00f7ff?style=for-the-badge&logo=numpy&logoColor=black">
   <img src="https://img.shields.io/badge/ScikitLearn-ff9a00?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/YOLOv8-00ff88?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Ultralytics-00ff88?style=for-the-badge">
 </p>
 
 ---
