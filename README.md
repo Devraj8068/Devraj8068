@@ -1,67 +1,114 @@
-# 💫 About Me:
-👋 Hi, I'm Devraj — a **Data Scientist & AI Engineer**  
+<!-- Animated Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Devraj+Gaikwad;Data+Scientist+%7C+AI+Builder;I+Turn+Data+Into+Intelligence;Welcome+to+My+World+🚀" />
+</h1>
 
-💡 I build **end-to-end AI systems** — from data → models → deployment using **Docker, CI/CD, AWS, and n8n**  
+---
 
-🌿 Exploring nature | 🎮 Strategy games  
+# 💫 About Me  
 
+👋 Hi, I'm **Devraj Gaikwad** — a passionate **Data Scientist**  
+
+🚀 I love building intelligent systems using **Machine Learning, AI & Data**  
+📊 Turning raw data into **meaningful insights & real-world solutions**  
+🌿 Outside tech: Nature + Strategy Games 🎮  
+
+---
+
+# ⚡ Tech Stack  
+
+## 💻 Programming
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Computer+Vision;LLM+Systems;Production+AI&center=true&width=450&height=40">
+  <img src="https://skillicons.dev/icons?i=python,sql&theme=dark" height="70"/>
 </p>
 
 ---
 
-## 🧠 Skills
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-
----
-
-### 📊 AI / ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-E34A6F?style=for-the-badge&logo=pytorch&logoColor=white)
-![Ultralytics](https://img.shields.io/badge/Ultralytics-FFD21F?style=for-the-badge&logo=ultralytics&logoColor=black)
-
----
-
-### 🚀 DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS ECR](https://img.shields.io/badge/AWS%20ECR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white)
-
----
-
-## 🚀 Projects
-
-- 🔍 AI Dust Detection (YOLO + OpenCV)  
-- 🤖 AI Chatbot (LLM + Semantic Search + Voice)  
-- 📄 Answer Sheet Evaluation (OCR + CV + LLM)  
-
-⚙️ Built with a **production mindset** (Docker + AWS + CI/CD + n8n)
-
----
-
-## 🌐 Connect
-
-[LinkedIn](https://www.linkedin.com/in/devraj-gaikwad-91ab21264/) •  
-[GitHub](https://github.com/Devraj8068)
-
----
-
-## 📊 GitHub Stats  
+## 🧠 Data Science & AI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="70"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devraj8068&layout=compact&theme=radical" />
+  <img src="https://img.shields.io/badge/Pandas-ff6ec7?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-00f7ff?style=for-the-badge&logo=numpy&logoColor=black">
+  <img src="https://img.shields.io/badge/ScikitLearn-ff9a00?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/YOLOv8-00ff88?style=for-the-badge">
 </p>
 
 ---
 
+## 📊 Visualization
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devraj8068&label=Views&color=0e75b6" />
+  <img src="https://img.shields.io/badge/Matplotlib-00c3ff?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Seaborn-8a2be2?style=for-the-badge">
 </p>
+
+---
+
+## 🛠️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" height="70"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter">
+  <img src="https://img.shields.io/badge/Colab-yellow?style=for-the-badge&logo=googlecolab">
+</p>
+
+---
+
+# 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/devraj-gaikwad-91ab21264/">
+    <img src="https://img.shields.io/badge/LinkedIn-00c3ff?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:devrajgaikwad79@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ff4d4d?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/Devraj8068">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+# 📊 GitHub Stats (BIG + CLEAN)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devraj8068&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devraj8068&theme=radical&hide_border=true" height="180"/>
+</p>
+
+---
+
+# 📈 Activity Graph (Animated)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devraj8068&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 💡 Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+# 🚀 Fun Fact  
+
+✨ *"Data is the new oil, but insight is the real fuel."*  
+
+---
