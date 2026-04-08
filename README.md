@@ -194,8 +194,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devraj8068&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devraj8068&layout=compact&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devraj8068&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="250"/>
 </p>
 
 ---
