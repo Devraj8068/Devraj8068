@@ -114,6 +114,63 @@
 
 ---
 
+# 🚀 Featured AI Projects  
+
+## 🤖 AI-Powered Multilingual Chatbot  
+🔹 Built using **Mistral-7B + Semantic Search (FAISS)**  
+🔹 Supports **context-aware conversations + fallback LLM responses**  
+🔹 Integrated **voice input + structured JSON knowledge base**  
+🔹 Deployed using **Flask + API-based architecture**  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM-Mistral-00f7ff?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Semantic Search-ff6ec7?style=for-the-badge">
+  <img src="https://img.shields.io/badge/FAISS-00ff88?style=for-the-badge">
+</p>
+
+---
+
+## 🔍 RAG-Based Intelligent Search System  
+🔹 Built a **Retrieval-Augmented Generation pipeline**  
+🔹 Hybrid search (**BM25 + Vector Search**)  
+🔹 Used **SentenceTransformers + FAISS indexing**  
+🔹 Query expansion + re-ranking for higher accuracy  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG System-00c3ff?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Embeddings-8a2be2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hybrid Search-ff9a00?style=for-the-badge">
+</p>
+
+---
+
+## 🧠 Agentic AI Workflow System  
+🔹 Designed **multi-step AI agents** using tools + memory  
+🔹 Implemented workflows with **LangChain / LangGraph concepts**  
+🔹 Agents can **plan → retrieve → reason → respond**  
+🔹 Integrated APIs for real-world task execution  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Agentic AI-00ff88?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LangChain-00f7ff?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LangGraph-ff6ec7?style=for-the-badge">
+</p>
+
+---
+
+## 👁️ AI-Based Dust Detection System (Computer Vision)  
+🔹 YOLO-based detection for **dust on car parts**  
+🔹 Region-specific detection (**L1 & L3 segmentation**)  
+🔹 Integrated with **image processing pipeline**  
+🔹 Used in controlled chamber environment  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/YOLOv8-ff9a00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/OpenCV-00c3ff?style=for-the-badge">
+</p>
+
+---
+
 ## 🚀 What I Build  
 
 ✨ **Agentic AI Systems**  
