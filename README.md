@@ -1,16 +1,18 @@
 <!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=2500&color=00F7FF&center=true&vCenter=true&width=1100&lines=Hi+👋,+I'm+Devraj+Gaikwad;AI+Engineer+%7C+Data+Scientist;Building+Agentic+AI+Systems;RAG+%7C+LLMs+%7C+Automation;Welcome+to+My+World+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=2500&color=00F7FF&center=true&vCenter=true&width=1100&lines=Hi+👋,+I'm+Devraj+Gaikwad;AI+Software+Engineer+%40+AAIC;Building+Agentic+AI+Systems;RAG+%7C+LLMs+%7C+Automation;Welcome+to+My+World+🚀" />
 </h1>
 
 ---
 
 # 💫 About Me  
 
-👋 Hi, I'm **Devraj Gaikwad** — a passionate **Data Scientist**  
+👋 Hi, I'm **Devraj Gaikwad** — an **AI Software Engineer at Applied AI Consulting (AAIC)**, Pune  
 
-🚀 I love building intelligent systems using **Machine Learning, AI & Data**  
-📊 Turning raw data into **meaningful insights & real-world solutions**  
+🤖 I build production **LLM, RAG and multi-agent systems** with LangChain, LangGraph, FastAPI, Docker and AWS  
+📈 Role-based multi-agent RAG: **+68% contextual accuracy, −45% hallucinations**  
+🏢 Agentic AI compliance platform for **600+ clients**, cutting manual work by **70%**  
+🛠️ Previously a **Data Scientist** at Eternity AI Endeavors (computer vision + LLM pipelines)  
 🌿 Outside tech: Nature + Strategy Games 🎮  
 
 ---
@@ -114,6 +116,17 @@
 
 ---
 
+# 📂 Projects on GitHub  
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**AgentLive**](https://github.com/Devraj8068/AgentLive) | AI agent that drives a real browser for live web research, streamed to a Next.js UI | LangChain · Playwright · FastAPI · WebSockets · Next.js |
+| [**LegisAI**](https://github.com/Devraj8068/LegisAI-Court-Hearing-AI-Powered-Preparation-Tool) | Court-hearing preparation assistant for Indian lawyers (−60% drafting time) | Gemini · Streamlit · python-docx |
+| [**RAG-Bot**](https://github.com/Devraj8068/RAG-Bot-AI-Powered-Multilingual-Chatbot) | Multilingual, voice-enabled RAG chatbot grounded in company knowledge | Mistral 7B · LangChain · FAISS · Flask |
+| [**PolyGPT**](https://github.com/Devraj8068/PolyGPT) | One chat UI routed across 8 LLM providers | Flask · Groq · Gemini · OpenAI · OpenRouter |
+
+---
+
 # 🚀 Featured AI Projects  
 
 ## 🤖 AI-Powered Multilingual Chatbot  
@@ -209,41 +222,10 @@
 
 ---
 
-# 📊 GitHub Stats (BIG + CLEAN)
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Devraj8068&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devraj8068&theme=radical&hide_border=true" height="180"/>
 </p>
-
----
-
-# 📈 Activity Graph (Animated)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devraj8068&theme=react-dark&hide_border=true&area=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# 💡 Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
----
-
-# 🚀 Fun Fact  
-
-✨ *"Data is the new oil, but insight is the real fuel."*  
 
 ---
