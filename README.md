@@ -123,7 +123,6 @@
 | [**AgentLive**](https://github.com/Devraj8068/AgentLive) | AI agent that drives a real browser for live web research, streamed to a Next.js UI | LangChain · Playwright · FastAPI · WebSockets · Next.js |
 | [**LegisAI**](https://github.com/Devraj8068/LegisAI-Court-Hearing-AI-Powered-Preparation-Tool) | Court-hearing preparation assistant for Indian lawyers (−60% drafting time) | Gemini · Streamlit · python-docx |
 | [**RAG-Bot**](https://github.com/Devraj8068/RAG-Bot-AI-Powered-Multilingual-Chatbot) | Multilingual, voice-enabled RAG chatbot grounded in company knowledge | Mistral 7B · LangChain · FAISS · Flask |
-| [**PolyGPT**](https://github.com/Devraj8068/PolyGPT) | One chat UI routed across 8 LLM providers | Flask · Groq · Gemini · OpenAI · OpenRouter |
 
 ---
 
