@@ -15,6 +15,8 @@
 🛠️ Previously a **Data Scientist** at Eternity AI Endeavors (computer vision + LLM pipelines)  
 🌿 Outside tech: Nature + Strategy Games 🎮  
 
+💬 **Ask my AI agent anything about my work, or paste a job description to check my fit:** [devraj-gaikwad.vercel.app](https://devraj-gaikwad.vercel.app)  
+
 ---
 
 # ⚡ Tech Stack  
@@ -120,6 +122,7 @@
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [**Ask Devraj**](https://github.com/Devraj8068/ask-devraj) · [live](https://devraj-gaikwad.vercel.app) | My portfolio agent: answers questions about me with cited, fact-checked answers and checks fit against job descriptions | LangGraph · FAISS + BM25 · FastAPI · React · Groq |
 | [**AgentLive**](https://github.com/Devraj8068/AgentLive) | AI agent that drives a real browser for live web research, streamed to a Next.js UI | LangChain · Playwright · FastAPI · WebSockets · Next.js |
 | [**LegisAI**](https://github.com/Devraj8068/LegisAI-Court-Hearing-AI-Powered-Preparation-Tool) | Court-hearing preparation assistant for Indian lawyers (−60% drafting time) | Gemini · Streamlit · python-docx |
 | [**RAG-Bot**](https://github.com/Devraj8068/RAG-Bot-AI-Powered-Multilingual-Chatbot) | Multilingual, voice-enabled RAG chatbot grounded in company knowledge | Mistral 7B · LangChain · FAISS · Flask |
@@ -208,6 +211,9 @@
 # 🌐 Connect With Me  
 
 <p align="center">
+  <a href="https://devraj-gaikwad.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-4f46e5?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
   <a href="https://www.linkedin.com/in/devraj-gaikwad-91ab21264/">
     <img src="https://img.shields.io/badge/LinkedIn-00c3ff?style=for-the-badge&logo=linkedin">
   </a>
